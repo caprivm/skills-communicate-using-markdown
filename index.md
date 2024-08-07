@@ -19,3 +19,7 @@ An example of a Javascript code.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+Now a list.
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
